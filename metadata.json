@@ -1,0 +1,5 @@
+{
+  "name": "Gemini CodeRunner & Deploy",
+  "description": "An AI-powered web code editor that generates, runs, and helps you deploy HTML/CSS/JS applications instantly.",
+  "requestFramePermissions": []
+}
